@@ -1,5 +1,5 @@
 // Ścieżka do aktualnie wykonywanego zadania
-const entryPath = "verti";
+const entryPath = ".";
 
 const gulp = require("gulp");
 const sass = require("gulp-sass")(require("sass"));
